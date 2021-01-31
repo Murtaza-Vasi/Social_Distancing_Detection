@@ -10,3 +10,6 @@ A ROI (Region Of Interest) is to be selected where we want to check social dista
 # How to run the project
 
 Download the files from repository and run the main.py file, 2 basic input videos are provided with the files in the "data" folder but you can change the input video by placing desired video file in "video" folder and changing the video file name in main.py
+
+ReadMe credit:
+<a href='https://github.com/dhruvam-zaveri/Social-distancing-tracker'> Dhruvam Zaveri </a>
